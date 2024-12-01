@@ -1,0 +1,2 @@
+def cout():
+    print("Hello")
