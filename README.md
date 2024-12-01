@@ -2,7 +2,7 @@
 
 ## Bước 1 tải các library cần thiết copy cái này và chạy trên terminal
 <pre><code class="language-javascript">
-pip install -p requirement.txt 
+pip install -r requirement.txt 
 </code></pre>
 ## Bước 2:
 <pre><code class"language-javascript">
