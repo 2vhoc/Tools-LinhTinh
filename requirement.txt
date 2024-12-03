@@ -1,5 +1,5 @@
-pip install tkinter
-pip install yagmail
-pip install pillow
-pip install rembg
-pip install pyshorteners
+tkinter
+yagmail
+pillow
+rembg
+pyshorteners
